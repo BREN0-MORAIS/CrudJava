@@ -1,0 +1,3 @@
+/************************Inserção de Dados********************************/
+
+insert into Paciente (nome,sobrenome,idade,sexo,cidade,bairro,celular,telefone,endereco , CPF,RG) values('Breno','Francisco',19,'Masculino','Cuiaba','Jd União','659898','6565565','endereco','6526','00000');

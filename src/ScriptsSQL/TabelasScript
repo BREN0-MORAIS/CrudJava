@@ -1,0 +1,18 @@
+/*----------------------------------SQL SERVER----------------------------------------*/
+
+create database CrudPaciente;
+
+create table Paciente(
+id int primary key identity,
+nome varchar(50),
+sobrenome varchar(50),
+idade int,
+sexo varchar(50),
+cidade varchar (50),
+bairro varchar(50),
+celular varchar(11),
+telefone varchar(11),
+endereco varchar(50),
+CPF varchar(11),
+RG varchar(50),
+);

@@ -1,0 +1,1 @@
+delete from Paciente where  id = 0 or CPF = 'JB'
