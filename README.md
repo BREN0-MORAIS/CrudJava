@@ -1,2 +1,2 @@
 # CrudJava
- Crude feito em java para caastrar Clientes 
+ Crude feito em java para cadastrar Clientes 
